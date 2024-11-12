@@ -1,0 +1,16 @@
+.RegisterContainerStyles{
+    width: 300px;
+    margin:auto;
+}
+
+.RegisterFormStyles{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.StatusContainer{
+    height: 2rem;
+    color: black;
+    
+}

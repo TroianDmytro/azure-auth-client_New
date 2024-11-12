@@ -1,0 +1,10 @@
+.LoginContainerStyles{
+    width: 300px;
+    margin:auto;
+}
+
+.LoginFormStyles{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
